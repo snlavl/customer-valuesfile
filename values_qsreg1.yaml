@@ -2,7 +2,7 @@ namespace:
   name: scr
 deployment:
   workloadclass: scr
-  replicas: 4
+  replicas: 2
 container:
   image:
     registry: snlavlacrmasarch.azurecr.io
